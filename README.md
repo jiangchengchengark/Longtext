@@ -28,7 +28,7 @@ We welcome contributions from the community! If you would like to contribute to 
 This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
-For any questions or inquiries, please contact [your_email@example.com](mailto:your_email@example.com).
+For any questions or inquiries, please contact [3306065226@qq.com](3306065226@qq.com).
 
 ---
 
