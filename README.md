@@ -4,7 +4,7 @@
 The `LongText` project aims to design reasonable long-text tasks and provide datasets for different stages of long-text processing. The datasets are organized in a conversational format and are available in English. The project is planned to cover text lengths ranging from 2K to 320K words, divided into multiple stages.
 
 ## Project Checklist
-- [✔] **2K-4K**: Completed
+- [✔] **2K-4K**: Completed [Download Dataset](https://www.alipan.com/s/Gpe2DZkkop5).
 - [ ] **4K-8K**: In Progress
 - [ ] **8K-16K**: Upcoming
 - [ ] **16K-32K**: Upcoming
